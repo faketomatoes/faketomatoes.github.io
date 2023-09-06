@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiadong Liang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jiadong Liang"
 description              : &description "personal description"
