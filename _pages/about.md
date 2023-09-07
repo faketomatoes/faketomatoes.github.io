@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a final-year Ph.D. student at the School of Mathematical Sciences, Peking University. I am advised by Prof. Zhihua Zhang.
+Welcome to my homepage! I am a final-year Ph.D. student at the School of Mathematical Sciences, Peking University. I am advised by Prof. [Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/).
 
 
 
