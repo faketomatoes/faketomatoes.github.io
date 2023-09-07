@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
 * <span style="font-size:11pt;">**A statistical analysis of Polyak-Ruppert averaged Q-learning**, with Xiang Li, Wenhao Yang, Zhihua Zhang, and Michel I. Jordan</span>
    - <span style="font-size:11pt;">*AISTATS* (2023)</span>
    - <span style="font-size:11pt;">[[Paper](https://proceedings.mlr.press/v206/li23b/li23b.pdf)]</span>
