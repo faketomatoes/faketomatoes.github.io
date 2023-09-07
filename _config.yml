@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiadong Liang"
   avatar           : "personal.JPG"
-  bio              : "**E-mail**: jdliang [@] pku [DOT] edu [DOT] cn"
-  location         : "1608 Science Building No.1, Peking University, Beijing, China"
+  bio              : "Currently seeking a postdoctoral position. Feel free to get in touch!"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zY6ZwTAAAAAJ&hl=en"
-  email            :
+  email            : "jdliang@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
