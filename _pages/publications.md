@@ -11,10 +11,34 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
 
-* <span style="font-size:11pt;">**Exploring the Link Between Innovation and Firm Growth in Chilean Firms**, with Caterina Santi</span>
-   - <span style="font-size:11pt;">*Small Business Economics* (2017), 49: 445</span>
-   - <span style="font-size:11pt;">[[Paper](https://link.springer.com/article/10.1007/s11187-016-9836-4)] [[WP](http://www.lem.sssup.it/WPLem/files/2016-09.pdf)]</span>
+* <span style="font-size:11pt;">**A statistical analysis of Polyak-Ruppert averaged Q-learning**, with Xiang Li, Wenhao Yang, Zhihua Zhang, and Michel I. Jordan</span>
+   - <span style="font-size:11pt;">*AISTATS* (2023)</span>
+   - <span style="font-size:11pt;">[[Paper](https://proceedings.mlr.press/v206/li23b/li23b.pdf)]</span>
+
+* <span style="font-size:11pt;">**Online statistical inference for nonlinear stochastic approximation with Markovian data**, with Xiang Li, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*Preprint* (2023)</span>
+   - <span style="font-size:11pt;">[[Paper](https://arxiv.org/pdf/2302.07690.pdf)]</span>
+
+* <span style="font-size:11pt;">**Asymptotic behaviors and phase transitions in projected stochastic approximation: a jump diffusion approach**, with Yuze Han, Xiang Li, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*Preprint* (2023)</span>
+   - <span style="font-size:11pt;">[[Paper](https://arxiv.org/pdf/2304.12953.pdf)]</span>
+
+* <span style="font-size:11pt;">**Asymptotic behaviors of projected stochastic approximation: a jump diffusion perspective**, with Yuze Han, Xiang Li, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*Neurips*, <u>Oral presentation<u> (2022)</span>
+   - <span style="font-size:11pt;">[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/dfdc9c54cd62f2b2bfd8b090b3489b7f-Paper-Conference.pdf)]</span>
+
+* <span style="font-size:11pt;">**Statistical estimation and inference via local sgd**, with Xiang Li, Xiangyu Chang, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*COLT* (2022)</span>
+   - <span style="font-size:11pt;">[[Paper](https://proceedings.mlr.press/v178/li22b/li22b.pdf)]</span>
+
+* <span style="font-size:11pt;">**Intervention generative adversarial networks**, with Liangyu Zhang, Cheng Zhang, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*Preprint* (2020)</span>
+   - <span style="font-size:11pt;">[[Paper](https://arxiv.org/pdf/2008.03712.pdf)]</span>
+
+* <span style="font-size:11pt;">**Lipschitz generative adversarial nets**, with Zhiming Zhou, Yuxuan Song, Lantao Yu, Hongwei Wang, Weinan Zhang, Yong Yu, and Zhihua Zhang</span>
+   - <span style="font-size:11pt;">*ICML* (2019)</span>
+   - <span style="font-size:11pt;">[[Paper](http://proceedings.mlr.press/v97/zhou19c/zhou19c.pdf)]</span>
