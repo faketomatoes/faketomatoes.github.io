@@ -24,7 +24,7 @@ author_profile: true
    - <span style="font-size:11pt;">[[Paper](https://arxiv.org/pdf/2304.12953.pdf)]</span>
 
 * <span style="font-size:11pt;">**Asymptotic behaviors of projected stochastic approximation: a jump diffusion perspective**, with Yuze Han, Xiang Li, and Zhihua Zhang</span>
-   - <span style="font-size:11pt;">*Neurips*, _Oral presentation （top 2%）_ (2022)</span>
+   - <span style="font-size:11pt;">*Neurips*, **Spotlight (top 2%)** (2022)</span>
    - <span style="font-size:11pt;">[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/dfdc9c54cd62f2b2bfd8b090b3489b7f-Paper-Conference.pdf)]</span>
 
 * <span style="font-size:11pt;">**Statistical estimation and inference via local sgd**, with Xiang Li, Xiangyu Chang, and Zhihua Zhang</span>
