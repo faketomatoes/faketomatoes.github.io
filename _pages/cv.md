@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size:0.9em;">Download full CV [here](https://faketomatoes.github.io/blob/master/files/Jiadong_s_Resume.pdf)</span>
+<span style="font-size:0.9em;">Download full CV [here](https://faketomatoes.github.io/files/Jiadong_s_Resume.pdf)</span>
