@@ -18,4 +18,6 @@ My current research interests focus on dealing with statistical problems and tas
 
 News
 ======
+Oct 15, 2023 Successfully completing the INFORMS talk and being able to meet my dear friend was wonderful!
+
 Aug 10, 2023 The JSM has concluded successfully – a memorable journey in the beautiful city of Toronto!
