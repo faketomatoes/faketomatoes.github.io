@@ -11,9 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-* <span style="font-size:11pt;">**Estimation and Inference in Distributional Reinforcement Learning**, with Liangyu Zhang, Yang Peng, and Zhihua Zhang</span>
-   - <span style="font-size:11pt;">*Annals of Statistics* (2023)</span>
-   - <span style="font-size:11pt;">[[Paper](https://arxiv.org/pdf/2309.17262.pdf)]</span>
+1. **[Estimation and Inference in Distributional Reinforcement Learning](https://arxiv.org/pdf/2309.17262.pdf)**
+    Liangyu Zhang, Yang Peng, **Jiadong Liang**, and Zhihua Zhang
+    *Annals of Statistics* (2023)
 
 * <span style="font-size:11pt;">**Stochastic Approximation MCMC, Online Inference, and Applications in Optimization of Queueing Systems**, with Xiang Li, Xinyun Chen, and Zhihua Zhang</span>
    - <span style="font-size:11pt;">*Accepted by Operation Research* (2023)</span>
