@@ -15,14 +15,14 @@ author_profile: true
    *Conference on Learning Theory (COLT)* (2025)
 
 2. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
-   Yuze Han, Xiang Li, Jiadong Liang, and Zhihua Zhang
+   Yuze Han, Xiang Li, Jiadong Liang, and Zhihua Zhang  
    Major revision at *Mathematics of Operation Research*
 
 4. **[Estimation and Inference in Distributional Reinforcement Learning](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Estimation-and-inference-in-distributional-reinforcement-learning/10.1214/25-AOS2527.short)**  
     Liangyu Zhang, Yang Peng, **Jiadong Liang**, and Zhihua Zhang  
     *Annals of Statistics* (2023)
    
-5. **[Gradient Tracking for High Dimensional Federated Optimization](https://arxiv.org/pdf/2312.05590.pdf)**
+5. **[Gradient Tracking for High Dimensional Federated Optimization](https://arxiv.org/pdf/2312.05590.pdf)**  
    **Jiadong Liang**, Yang Peng, and Zhihua Zhang
 
 6. **[Stochastic Approximation MCMC, Online Inference, and Applications in Optimization of Queueing Systems](https://arxiv.org/pdf/2309.09545.pdf)**  
