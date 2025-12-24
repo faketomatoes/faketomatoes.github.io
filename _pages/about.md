@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: "home"
 permalink: /
 title: "About me"
 excerpt: "About me"
