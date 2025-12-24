@@ -15,7 +15,7 @@ author_profile: true
    *Conference on Learning Theory (COLT)* (2025)
 
 2. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
-   Yuze Han, Xiang Li, Jiadong Liang, and Zhihua Zhang  
+   Yuze Han, Xiang Li, **Jiadong Liang**, and Zhihua Zhang  
    Major revision at *Mathematics of Operation Research*
 
 4. **[Estimation and Inference in Distributional Reinforcement Learning](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Estimation-and-inference-in-distributional-reinforcement-learning/10.1214/25-AOS2527.short)**  
