@@ -22,7 +22,7 @@ author_profile: true
     *Annals of Statistics* (2023)
 
 4. **[Stochastic Approximation MCMC, Online Inference, and Applications in Optimization of Queueing Systems](https://arxiv.org/pdf/2309.09545.pdf)**  
-   Xiang Li *, **Jiadong Liang** *,Xinyun Chen, and Zhihua Zhang  
+   Xiang Li , **Jiadong Liang** ,Xinyun Chen, and Zhihua Zhang  
    *Operation Research* (2026+)
 
 5. **[A statistical analysis of Polyak-Ruppert averaged Q-learning](https://proceedings.mlr.press/v206/li23b/li23b.pdf)**  
