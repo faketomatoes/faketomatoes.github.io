@@ -19,7 +19,7 @@ author_profile: true
    Major revision at *Mathematics of Operation Research*
 
 4. **[Estimation and Inference in Distributional Reinforcement Learning](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Estimation-and-inference-in-distributional-reinforcement-learning/10.1214/25-AOS2527.short)**  
-    Liangyu Zhang, Yang Peng, **Jiadong Liang**, and Zhihua Zhang  
+    Liangyu Zhang, Yang Peng, **Jiadong Liang**, Wenhao Yang, and Zhihua Zhang  
     *Annals of Statistics* (2025)
    
 5. **[Gradient Tracking for High Dimensional Federated Optimization](https://arxiv.org/pdf/2312.05590.pdf)**  
