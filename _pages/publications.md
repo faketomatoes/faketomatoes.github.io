@@ -10,11 +10,15 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-1. **[Low-dimensional adaptation of diffusion models: Convergence in total variation](https://proceedings.mlr.press/v291/liang25a.html)**  
+1. **[Optimal training-conditional regret for online conformal prediction](https://www.arxiv.org/pdf/2602.16537)**  
+   **Jiadong Liang**, Zhimei Ren, and Yuxin Chen
+
+
+2. **[Low-dimensional adaptation of diffusion models: Convergence in total variation](https://proceedings.mlr.press/v291/liang25a.html)**  
    **Jiadong Liang**, Zhihan Huang, and Yuxin Chen  
    *Conference on Learning Theory (COLT)* (2025)
 
-2. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
+3. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
    Yuze Han, Xiang Li, **Jiadong Liang**, and Zhihua Zhang  
    Major revision at *Mathematics of Operation Research*
 
