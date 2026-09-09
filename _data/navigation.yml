@@ -1,3 +1,11 @@
+academic:
+  - title: "about"
+    url: /
+  - title: "publications"
+    url: /publications/
+  - title: "contact"
+    url: /#contact
+
 # main links links
 # main:
 #   - title: "Home"
@@ -21,7 +29,7 @@
     
  # - title: "Guide"
  #   url: /markdown/
- home:
+home:
   - title: "Home"
     url: /
   - title: "Biography"
@@ -30,4 +38,3 @@
     url: /publications/
   - title: "Misc."
     url: /#misc
-
