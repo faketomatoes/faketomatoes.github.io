@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en-US' | replace: '_', '-' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include seo.html %}
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <nav class="wrapper site-nav" aria-label="Main navigation">
+        {% for link in site.data.navigation.academic %}
+          <a href="{{ link.url | relative_url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </header>
+
+    <main id="main-content" class="wrapper page-content" tabindex="-1">
+      <article{% if page.permalink == '/publications/' %} class="publications"{% endif %}>
+        <header class="post-header">
+          <h1>{{ page.title }}</h1>
+          {% if page.subtitle %}<p class="post-description">{{ page.subtitle }}</p>{% endif %}
+        </header>
+        <div class="post-content">
+          {% if page.profile %}
+            <figure class="profile">
+              <img src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="{{ site.author.name | escape }}" width="835" height="1280" decoding="async">
+            </figure>
+          {% endif %}
+          {{ content }}
+        </div>
+      </article>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+      </div>
+    </footer>
+    {% include analytics.html %}
+  </body>
+</html>
