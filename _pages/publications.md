@@ -6,6 +6,8 @@ excerpt: "Publications by Jiadong Liang in statistics, stochastic approximation,
 author_profile: false
 ---
 
+<sup>&#42;</sup> indicates alphabetical author order (by pinyin) or equal contribution.
+
 {% if site.author.googlescholar %}
 You can also find my articles on [Google Scholar]({{ site.author.googlescholar }}).
 {% endif %}
@@ -20,7 +22,7 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
    *Conference on Learning Theory (COLT)* (2025)
 
 3. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
-   Yuze Han, Xiang Li, **Jiadong Liang**, and Zhihua Zhang  
+   Yuze Han<sup>&#42;</sup>, Xiang Li<sup>&#42;</sup>, **Jiadong Liang**<sup>&#42;</sup>, and Zhihua Zhang<sup>&#42;</sup>  
    *Mathematics of Operations Research* (2026)
 
 4. **[Estimation and Inference in Distributional Reinforcement Learning](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Estimation-and-inference-in-distributional-reinforcement-learning/10.1214/25-AOS2527.short)**  
@@ -28,11 +30,11 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
     *Annals of Statistics* (2025)
    
 5. **[Gradient Tracking for High Dimensional Federated Optimization](https://arxiv.org/pdf/2312.05590.pdf)**  
-   **Jiadong Liang**, Yang Peng, and Zhihua Zhang
+   **Jiadong Liang**<sup>&#42;</sup>, Yang Peng<sup>&#42;</sup>, and Zhihua Zhang<sup>&#42;</sup>
 
 6. **[Stochastic Approximation MCMC, Online Inference, and Applications in Optimization of Queueing Systems](https://arxiv.org/pdf/2309.09545.pdf)**  
-   Xiang Li , **Jiadong Liang** ,Xinyun Chen, and Zhihua Zhang  
-   *Operation Research* (2026)
+   Xiang Li<sup>&#42;</sup>, **Jiadong Liang**<sup>&#42;</sup>, Xinyun Chen, and Zhihua Zhang  
+   *Operations Research* (2026)
 
 7. **[A statistical analysis of Polyak-Ruppert averaged Q-learning](https://proceedings.mlr.press/v206/li23b/li23b.pdf)**  
    Xiang Li, Wenhao Yang, **Jiadong Liang**, Zhihua Zhang, and Michel I. Jordan  
