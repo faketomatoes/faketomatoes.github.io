@@ -21,7 +21,7 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
 
 3. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
    Yuze Han, Xiang Li, **Jiadong Liang**, and Zhihua Zhang  
-   Accepted by *Mathematics of Operations Research (MOR)*
+   *Mathematics of Operations Research* (2026)
 
 4. **[Estimation and Inference in Distributional Reinforcement Learning](https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-5/Estimation-and-inference-in-distributional-reinforcement-learning/10.1214/25-AOS2527.short)**  
     Liangyu Zhang, Yang Peng, **Jiadong Liang**, Wenhao Yang, and Zhihua Zhang  
@@ -32,7 +32,7 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
 
 6. **[Stochastic Approximation MCMC, Online Inference, and Applications in Optimization of Queueing Systems](https://arxiv.org/pdf/2309.09545.pdf)**  
    Xiang Li , **Jiadong Liang** ,Xinyun Chen, and Zhihua Zhang  
-   *Operation Research* (2026+)
+   *Operation Research* (2026)
 
 7. **[A statistical analysis of Polyak-Ruppert averaged Q-learning](https://proceedings.mlr.press/v206/li23b/li23b.pdf)**  
    Xiang Li, Wenhao Yang, **Jiadong Liang**, Zhihua Zhang, and Michel I. Jordan  
