@@ -11,7 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a postdoctoral researcher in Statistics at the University of Pennsylvania, working with Prof. [Yuxin Chen](https://yuxinchen2020.github.io/). I obtained my PhD in Statistics from the School of Mathematics, Peking University, where I was fortunate to be advised by Prof. [Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/).
+Welcome to my homepage! I am a postdoctoral researcher in Statistics at the Wharton School, University of Pennsylvania, working with Prof. [Yuxin Chen](https://yuxinchen2020.github.io/). I obtained my PhD in Statistics from the School of Mathematics, Peking University, where I was fortunate to be advised by Prof. [Zhihua Zhang](https://www.math.pku.edu.cn/teachers/zhzhang/).
 
 
 
