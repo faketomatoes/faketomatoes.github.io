@@ -6,7 +6,7 @@ excerpt: "Publications by Jiadong Liang in statistics, stochastic approximation,
 author_profile: false
 ---
 
-<sup>&#42;</sup> indicates alphabetical author order (by pinyin) or equal contribution.
+<sup>&#42;</sup> indicates alphabetical author order or equal contribution.
 
 {% if site.author.googlescholar %}
 You can also find my articles on [Google Scholar]({{ site.author.googlescholar }}).
