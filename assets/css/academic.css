@@ -1,4 +1,4 @@
-/* A compact, text-first layout for the homepage and publication list. */
+/* A compact, text-first layout for the homepage, publications, and talks. */
 :root {
   color-scheme: light;
   --text: #333333;
@@ -74,6 +74,12 @@ p { margin: 0 0 18px; }
 .publications li p { margin: 0; }
 .publications strong { font-weight: 600; }
 
+.talk-list { list-style: none; margin: 0; padding: 0; }
+.talk-list li { margin-bottom: 28px; }
+.talk-list h2 { margin: 0 0 4px; color: var(--text); font-size: 1rem; font-weight: 600; line-height: 1.5; }
+.talk-list p { margin: 0; }
+.talk-list .talk-date { margin-top: 4px; color: var(--muted); font-size: 0.9375rem; }
+
 .site-footer { padding-block: 12px; color: #cccccc; background: #424242; font-size: 0.875rem; text-align: center; }
 .site-footer a { color: #ffffff; }
 
@@ -97,5 +103,5 @@ p { margin: 0 0 18px; }
   .page-content { padding-block: 0; }
   .site-footer { background: none; color: var(--muted); }
   .site-footer a { color: inherit; }
-  .publications li { break-inside: avoid; }
+  .publications li, .talk-list li { break-inside: avoid; }
 }

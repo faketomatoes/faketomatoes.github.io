@@ -3,8 +3,8 @@ academic:
     url: /
   - title: "publications"
     url: /publications/
-  - title: "contact"
-    url: /#contact
+  - title: "talks"
+    url: /talks/
 
 # main links links
 # main:
