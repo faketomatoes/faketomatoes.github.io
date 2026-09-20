@@ -75,10 +75,16 @@ p { margin: 0 0 18px; }
 .publications strong { font-weight: 600; }
 
 .talk-list { list-style: none; margin: 0; padding: 0; }
-.talk-list li { margin-bottom: 28px; }
-.talk-list h2 { margin: 0 0 4px; color: var(--text); font-size: 1rem; font-weight: 600; line-height: 1.5; }
+.talk-list > li { margin-bottom: 32px; }
+.talk-list h2 { margin: 0 0 10px; color: var(--text); font-size: 1.125rem; font-weight: 600; line-height: 1.5; }
 .talk-list p { margin: 0; }
 .talk-list .talk-date { margin-top: 4px; color: var(--muted); font-size: 0.9375rem; }
+.talk-events { margin: 0; padding-left: 1.25rem; list-style: disc; }
+.talk-events > li { margin-bottom: 14px; padding-left: 0.2rem; }
+.talk-events > li:last-child { margin-bottom: 0; }
+.talk-events > li::marker { color: var(--muted); }
+.slides-button { display: inline-flex; align-items: center; min-height: 28px; margin-left: 6px; padding: 2px 8px; border: 1px solid var(--link); border-radius: 4px; font-size: 0.75rem; font-weight: 400; line-height: 1.5; vertical-align: middle; white-space: nowrap; }
+.slides-button:hover { color: #ffffff; background: var(--link); text-decoration: none; }
 
 .site-footer { padding-block: 12px; color: #cccccc; background: #424242; font-size: 0.875rem; text-align: center; }
 .site-footer a { color: #ffffff; }
