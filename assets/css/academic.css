@@ -83,8 +83,8 @@ p { margin: 0 0 18px; }
 .talk-events > li { margin-bottom: 14px; padding-left: 0.2rem; }
 .talk-events > li:last-child { margin-bottom: 0; }
 .talk-events > li::marker { color: var(--muted); }
-.slides-button { display: inline-flex; align-items: center; min-height: 28px; margin-left: 6px; padding: 2px 8px; border: 1px solid var(--link); border-radius: 4px; font-size: 0.75rem; font-weight: 400; line-height: 1.5; vertical-align: middle; white-space: nowrap; }
-.slides-button:hover { color: #ffffff; background: var(--link); text-decoration: none; }
+.slides-button { display: inline-flex; align-items: center; min-height: 28px; margin-left: 6px; padding: 2px 8px; color: #ffffff; background: var(--link); border: 1px solid var(--link); border-radius: 4px; font-size: 0.75rem; font-weight: 400; line-height: 1.5; vertical-align: middle; white-space: nowrap; }
+.slides-button:hover { background: #410569; border-color: #410569; text-decoration: none; }
 
 .site-footer { padding-block: 12px; color: #cccccc; background: #424242; font-size: 0.875rem; text-align: center; }
 .site-footer a { color: #ffffff; }
