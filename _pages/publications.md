@@ -14,7 +14,7 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
 
 {% include base_path %}
 1. **[Weak Convergence Rates for Partial-Sum Processes of Nonlinear Stochastic Approximation](https://arxiv.org/pdf/2609.40338)**  
-   Xiang Li, **Jiadong Liang**, and Zhihua Zhang
+   Xiang Li<sup>&#42;</sup>, **Jiadong Liang**<sup>&#42;</sup>, and Zhihua Zhang<sup>&#42;</sup>
 
 2. **[Optimal training-conditional regret for online conformal prediction](https://www.arxiv.org/pdf/2602.16537)**  
    **Jiadong Liang**, Zhimei Ren, and Yuxin Chen
@@ -47,7 +47,7 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
    *Artificial Intelligence and Statistics Conference (AISTATS)* (2025)
 
 10. **[Online statistical inference for nonlinear stochastic approximation with Markovian data](https://arxiv.org/pdf/2302.07690.pdf)**  
-   Xiang Li, **Jiadong Liang**, and Zhihua Zhang
+   Xiang Li<sup>&#42;</sup>, **Jiadong Liang**<sup>&#42;</sup>, and Zhihua Zhang<sup>&#42;</sup>
 
 11. **[Asymptotic behaviors of projected stochastic approximation: a jump diffusion perspective](https://proceedings.neurips.cc/paper_files/paper/2022/file/dfdc9c54cd62f2b2bfd8b090b3489b7f-Paper-Conference.pdf)**  
    **Jiadong Liang**, Yuze Han, Xiang Li, and Zhihua Zhang  
