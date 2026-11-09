@@ -18,12 +18,13 @@ You can also find my articles on [Google Scholar]({{ site.author.googlescholar }
 
 2. **[Optimal training-conditional regret for online conformal prediction](https://www.arxiv.org/pdf/2602.16537)**  
    **Jiadong Liang**, Zhimei Ren, and Yuxin Chen  
-   revision invited by *Annals of Statistics*
+   Major Revision by *Annals of Statistics*
 
 
 3. **[Low-dimensional adaptation of diffusion models: Convergence in total variation](https://proceedings.mlr.press/v291/liang25a.html)**  
    **Jiadong Liang**, Zhihan Huang, and Yuxin Chen  
-   *Conference on Learning Theory (COLT)* (2025)
+   Extended abstract at *Conference on Learning Theory (COLT)* (2025)  
+   Revision Invited by *JASA*
 
 4. **[Decoupled Functional Central Limit Theorems for Two-Time-Scale Stochastic Approximation](https://arxiv.org/pdf/2412.17070)**  
    Yuze Han<sup>&#42;</sup>, Xiang Li<sup>&#42;</sup>, **Jiadong Liang**<sup>&#42;</sup>, and Zhihua Zhang<sup>&#42;</sup>  
